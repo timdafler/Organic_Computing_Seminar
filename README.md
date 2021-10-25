@@ -1,3 +1,3 @@
 # Seminar Organic Computing
 
-## **Deterministic Global Optimisation**
+## **Thema: Deterministic Global Optimisation**
