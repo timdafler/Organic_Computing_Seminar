@@ -12,7 +12,10 @@
 - Metaheuristic vs. deterministic global optimization algorithms: The univariate case, Autoren: Dmitri E.KvasovabMarat S.Mukhametzhanovab, 01.02.2018
 - Globale Optimierung - Ein informationstheoretischer Zugang, Autoren: Schäffler, Stefan, 2014
 - Grundzüge der Globalen Optimierung, Autoren: Stein, Oliver, 2018
+- Optimierung interaktiv (pp 127-147) - Globale Optimierung, Autoren: Daniel Scholz, 22.08.2018
+- Gemischt-ganzzahlige Optimierung: Modellierung in der Praxis (pp 275-299) - Globale Optimierung in der Praxis, Autoren: Josef Kallrath, 06 November 2012
 
 ### Websites:
 - https://www.mat.univie.ac.at/~herman/skripten/globale_opt.pdf
 - https://coggle.it/diagram/W4qTDbU2KKwv-eEb/t/deterministische-optimierungsverfahren
+- https://de.knowledgr.com/21544946/DeterministischeGlobaleOptimierung
