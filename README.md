@@ -4,13 +4,6 @@
 - Schwerpunkt selbst legen (generell oder neueste Erkenntnisse möglich)
 - Beispiele zur Anwendung sinnvoll
 
-## *Tipps*
-- Wikipedia zum Einstieg
-- Paper hierzu lesen
-
-## **Zwischenabgabe**
-- 4 Seiten werden gelesen
-
 ### Literatur:
 - Deterministic Global Optimization - Theory, Methods and Applications, Autoren: Floudas, Christodoulos A., 2000
 - Deterministic Global Optimization - Geometric Branch-and-bound Methods and their Applications, Autoren: Scholz, Daniel, 2012
@@ -28,3 +21,10 @@
 - https://www.mat.univie.ac.at/~herman/skripten/globale_opt.pdf
 - https://coggle.it/diagram/W4qTDbU2KKwv-eEb/t/deterministische-optimierungsverfahren
 - https://de.knowledgr.com/21544946/DeterministischeGlobaleOptimierung
+
+## *Tipps*
+- Wikipedia zum Einstieg
+- Paper hierzu lesen
+
+## **Zwischenabgabe**
+- 4 Seiten werden gelesen
