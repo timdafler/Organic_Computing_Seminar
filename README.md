@@ -1,6 +1,15 @@
 # Seminar Organic Computing
 
 ## **Thema: Deterministic Global Optimisation**
+- Schwerpunkt selbst legen (generell oder neueste Erkenntnisse möglich)
+- Beispiele zur Anwendung sinnvoll
+
+## *Tipps*
+- Wikipedia zum Einstieg
+- Paper hierzu lesen
+
+## **Zwischenabgabe**
+- 4 Seiten werden gelesen
 
 ### Literatur:
 - Deterministic Global Optimization - Theory, Methods and Applications, Autoren: Floudas, Christodoulos A., 2000
