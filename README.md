@@ -1,10 +1,9 @@
 # Seminar Organic Computing
 
-## **Thema: Deterministic Global Optimisation**
-- Schwerpunkt selbst legen (generell oder neueste Erkenntnisse möglich)
-- Beispiele zur Anwendung sinnvoll
+## **Thema: Deterministische Globale Optimierung**
 
-### Literatur:
+
+## *Literatur*:
 - Deterministic Global Optimization - Theory, Methods and Applications, Autoren: Floudas, Christodoulos A., 2000
 - Deterministic Global Optimization - Geometric Branch-and-bound Methods and their Applications, Autoren: Scholz, Daniel, 2012
 - Deterministic Global Optimization: An Introduction to the Diagonal Approach, Autoren: Yaroslav D. Sergeyev und Dmitri E. Kvasov, 16. Juni 2017
@@ -17,7 +16,7 @@
 - Optimierung interaktiv (pp 127-147) - Globale Optimierung, Autoren: Daniel Scholz, 22.08.2018
 - Gemischt-ganzzahlige Optimierung: Modellierung in der Praxis (pp 275-299) - Globale Optimierung in der Praxis, Autoren: Josef Kallrath, 06 November 2012
 
-### *weiterführende Literatur*:
+### *aktuelle Forschung*:
 - [Journal of Global Optimization](https://www.springer.com/journal/10898)
 - [Journal of Optimization Theory and Applications](https://www.springer.com/journal/10957/)
 
