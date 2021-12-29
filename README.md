@@ -1,11 +1,10 @@
 # Seminar Organic Computing
-1. [Deterministische Globale Optmierung]()
-   a) []()
-   b) []()
-3. [Literatur]()
-4. [Download]()
-
 ## **Thema: Deterministische Globale Optimierung**
+1. [**Zusammenfassung**](#*Zusammenfassung*)
+2. [Literatur]()
+3. [Download]()
+
+
 ### *Zusammenfassung:*
 Der Zweig der Deterministischen Globalen Optimierung befasst
 sich mit Problemen, bei denen exakte Verfahren für die Lösung notwendig sind. Anstelle einer lokal optimalen Lösung sind globale
