@@ -1,7 +1,7 @@
 # Seminar Organic Computing
 
 ## **Thema: Deterministische Globale Optimierung**
-### *Motivation:*
+### *Zusammenfassung:*
 Der Zweig der Deterministischen Globalen Optimierung befasst
 sich mit Problemen, bei denen exakte Verfahren für die Lösung notwendig sind. Anstelle einer lokal optimalen Lösung sind globale
 Optima von Interesse. Anwendungen findet die Theorie unter anderem in Prozessen der Chemie, bei der chemische Gleichgewichte
@@ -14,6 +14,12 @@ praktischer Nutzen für die Abschätzung von Schranken dargelegt.
 Anschließend werden Anwendungen und Software-Lösungen für
 die Optimierungsprobleme vorgestellt, ehe in einer kurzen Diskussion die Ergebnisse und Erkenntnisse zusammengetragen werden.
 Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung.
+
+### *KEYWORDS:*
+**Operations Research, Optimierungsprobleme,
+Deterministische Globale Optimierung, Branching,
+DIRECT, MCL, LGO, Branch-and-Bound, Branch-andReduce, Constraint Propagation, Konvexe Relaxierung,
+Intervallarithmetik, Lagrange-Dualität**
 
 ## *Literatur*:
 - Deterministic Global Optimization - Theory, Methods and Applications, Autoren: Floudas, Christodoulos A., 2000
