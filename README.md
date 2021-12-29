@@ -13,7 +13,7 @@ Branch-and-Bound und Branch-and-Reduce aufgezeigt und deren
 praktischer Nutzen für die Abschätzung von Schranken dargelegt.
 Anschließend werden Anwendungen und Software-Lösungen für
 die Optimierungsprobleme vorgestellt, ehe in einer kurzen Diskussion die Ergebnisse und Erkenntnisse zusammengetragen werden.
-Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung
+Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung.
 
 ## *Literatur*:
 - Deterministic Global Optimization - Theory, Methods and Applications, Autoren: Floudas, Christodoulos A., 2000
