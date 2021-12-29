@@ -34,5 +34,5 @@ Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung.
 - [**Grundzüge der Globalen Optimierung** - Oliver Stein (2018)](https://www.doi.org/10.1007/978-3-662-55360-2)
 
 ### *aktuelle Forschung:*
-- [Journal of Global Optimization](https://www.springer.com/journal/10898)
-- [Journal of Optimization Theory and Applications](https://www.springer.com/journal/10957/)
+- [**Journal of Global Optimization**](https://www.springer.com/journal/10898)
+- [**Journal of Optimization Theory and Applications**](https://www.springer.com/journal/10957/)
