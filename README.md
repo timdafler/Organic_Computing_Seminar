@@ -1,4 +1,5 @@
 # Deterministische Globale Optimierung
+![Organic Computing](./Organic_Computing.png?raw=true "Organic Computing")
 ## Inhaltsverzeichnis
 1. [**Zusammenfassung**](#Zusammenfassung)
 2. [**Literatur**](#Literatur)
