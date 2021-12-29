@@ -1,29 +1,44 @@
-# Seminar Organic Computing
+# Deterministische Globale Optimierung
+## Inhaltsverzeichnis
+1. [**Zusammenfassung**](#Zusammenfassung)
+2. [**Literatur**](#Literatur)
+3. [**Aktuelle Forschung**](#Forschung)
+4. [**Download**](#Download)
 
-## **Thema: Deterministic Global Optimisation**
-- Schwerpunkt selbst legen (generell oder neueste Erkenntnisse möglich)
-- Beispiele zur Anwendung sinnvoll
 
-### Literatur:
-- Deterministic Global Optimization - Theory, Methods and Applications, Autoren: Floudas, Christodoulos A., 2000
-- Deterministic Global Optimization - Geometric Branch-and-bound Methods and their Applications, Autoren: Scholz, Daniel, 2012
-- Deterministic Global Optimization: An Introduction to the Diagonal Approach, Autoren: Yaroslav D. Sergeyev und Dmitri E. Kvasov, 16. Juni 2017
-- Global Optimization: Deterministic Approaches, Autoren: Reiner Horst und Hoang Tuy, 19. Februar 2010
-- Nonlinear Analysis and Global Optimization (Springer Optimization and Its Applications, 167, Band 167), Autoren: Themistocles M. Rassias und Panos M. Pardalos, 27. Februar 2021
-- Advances in Stochastic and Deterministic Global Optimization (Springer Optimization and Its Applications, Band 107), Autoren: Panos M. Pardalos, Anatoly Zhigljavsky, et al., 23. Juni 2018 
-- Metaheuristic vs. deterministic global optimization algorithms: The univariate case, Autoren: Dmitri E.KvasovabMarat S.Mukhametzhanovab, 01.02.2018
-- Globale Optimierung - Ein informationstheoretischer Zugang, Autoren: Schäffler, Stefan, 2014
-- Grundzüge der Globalen Optimierung, Autoren: Stein, Oliver, 2018
-- Optimierung interaktiv (pp 127-147) - Globale Optimierung, Autoren: Daniel Scholz, 22.08.2018
-- Gemischt-ganzzahlige Optimierung: Modellierung in der Praxis (pp 275-299) - Globale Optimierung in der Praxis, Autoren: Josef Kallrath, 06 November 2012
+## *Zusammenfassung:*
+Der Zweig der Deterministischen Globalen Optimierung befasst
+sich mit Problemen, bei denen exakte Verfahren für die Lösung notwendig sind. Anstelle einer lokal optimalen Lösung sind globale
+Optima von Interesse. Anwendungen findet die Theorie unter anderem in Prozessen der Chemie, bei der chemische Gleichgewichte
+eine exakte Bestimmung des Optimalwerts erfordern. Aber auch in
+der Robotik, in Netzwerken und bei der Strukturvorhersage in Clustern findet die Theorie praktische Anwendung. Die Arbeit befasst
+sich mit den grundlegenden Ansätzen und Vorgehensweisen um
+die Lösung des vorliegenden Problems möglichst effizient zu berechnen. Hierfür werden verschiedene Verfahren des Branching,
+Branch-and-Bound und Branch-and-Reduce aufgezeigt und deren
+praktischer Nutzen für die Abschätzung von Schranken dargelegt.
+Anschließend werden Anwendungen und Software-Lösungen für
+die Optimierungsprobleme vorgestellt, ehe in einer kurzen Diskussion die Ergebnisse und Erkenntnisse zusammengetragen werden.
+Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung.
 
-### Websites:
-- https://www.mat.univie.ac.at/~herman/skripten/globale_opt.pdf
-- https://coggle.it/diagram/W4qTDbU2KKwv-eEb/t/deterministische-optimierungsverfahren
-- https://de.knowledgr.com/21544946/DeterministischeGlobaleOptimierung
+### *KEYWORDS:*
+**Operations Research, Optimierungsprobleme, Deterministische Globale Optimierung, Branching, DIRECT, MCL, LGO, Branch-and-Bound, Branch-and-Reduce, Constraint Propagation, Konvexe Relaxierung, Intervallarithmetik, Lagrange-Dualität**
 
-## *DOWNLOAD*
-- [Deterministische Globale Optimierung](https://github.com/timdafler/Organic_Computing_Seminar/Deterministische_Globale_Optimierung.pdf)
+## *Literatur:*
+- [**Deterministic Global Optimization - Theory, Methods and Applications** - Christodoulos A. Floudas (2000)](https://www.doi.org/10.1007/978-1-4757-4949-6)
+- [**Complete search in continuous global optimization and constraint satisfaction** - Neumaier, Arnold (2004)](https://www.doi.org/10.1017/cbo9780511569975.004)
+- [**Essays and Surveys in Global Optimization** - Charles Audet, Pierre Hansen, und Giles Savard (2005)](https://www.doi.org/10.1007/b135610)
+- [**Non-linear Global Optimization Using Interval Arithmetic and Constraint Propagation** - Steffen Kjøller, Pavel Kozine, Kaj Madsen, und Ole Stauning (2007)](https://www.doi.org/10.1007/978-0-387-36721-7_3)
+- [**Introduction to Nonlinear and Global Optimization** - Eligius M.T. Hendrix und Boglárka G.-Tóth (2010)](https://www.doi.org/10.1007/978-0-387-88670-1)
+- [**Deterministic Global Optimization - Geometric Branch-and-bound Methods and their Applications** - Scholz, Daniel (2011)](https://www.doi.org/10.1007/978-1-4614-1951-8)
+- [**Global Optimization - Theory, Algorithms, and Applications** - Marco Locatelli und Fabio Schoen (2013)](https://www.doi.org/10.1137/1.9781611972672)
+- [**Advances in Stochastic and Deterministic Global Optimization** - Pardalos, Panos M. und Zhigljavsky, Anatoly und Žilinskas, Julius (2016)](https://www.doi.org/10.1007/978-3-319-29975-4)
+- [**Deterministic global optimization** - Butenko, Sergiy und Pardalos, Panos M. (2017)](https://www.doi.org/10.1137/1.9781611974683.ch13)
+- [**Grundzüge der Globalen Optimierung** - Oliver Stein (2018)](https://www.doi.org/10.1007/978-3-662-55360-2)
 
-## **Zwischenabgabe**
-- 4 Seiten werden gelesen
+## *Aktuelle Forschung:* <a name="Forschung"></a>
+- [**Journal of Global Optimization**](https://www.springer.com/journal/10898)
+- [**Journal of Optimization Theory and Applications**](https://www.springer.com/journal/10957/)
+
+
+## *Download:*
+- [Deterministische Globale Optimierung](https://github.com/timdafler/Organic_Computing_Seminar/blob/main/Deterministische_Globale_Optimierung.pdf)
