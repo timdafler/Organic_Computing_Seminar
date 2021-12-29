@@ -22,9 +22,8 @@
 - https://coggle.it/diagram/W4qTDbU2KKwv-eEb/t/deterministische-optimierungsverfahren
 - https://de.knowledgr.com/21544946/DeterministischeGlobaleOptimierung
 
-## *Tipps*
-- Wikipedia zum Einstieg
-- Paper hierzu lesen
+## *DOWNLOAD*
+- [Deterministische Globale Optimierung](https://github.com/timdafler/Organic_Computing_Seminar/Deterministische_Globale_Optimierung.pdf)
 
 ## **Zwischenabgabe**
 - 4 Seiten werden gelesen
