@@ -1,5 +1,6 @@
 # Deterministische Globale Optimierung
 <img src="./Organic_Computing.png" alt="drawing" width="200"/>
+
 ## Inhaltsverzeichnis
 1. [**Zusammenfassung**](#Zusammenfassung)
 2. [**Literatur**](#Literatur)
