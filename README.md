@@ -2,7 +2,8 @@
 ## **Thema: Deterministische Globale Optimierung**
 1. [**Zusammenfassung**](#Zusammenfassung)
 2. [**Literatur**](#Literatur)
-3. [**Download**](#Download)
+3. [**Aktuelle Forschung**](#Forschung)
+4. [**Download**](#Download)
 
 
 ### *Zusammenfassung:*
@@ -22,7 +23,7 @@ Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung.
 ### *KEYWORDS:*
 **Operations Research, Optimierungsprobleme, Deterministische Globale Optimierung, Branching, DIRECT, MCL, LGO, Branch-and-Bound, Branch-and-Reduce, Constraint Propagation, Konvexe Relaxierung, Intervallarithmetik, Lagrange-Dualität**
 
-## *Empfehlenswerte Literatur:* <a name="Literatur"></a>
+## *Literatur:*
 - [**Deterministic Global Optimization - Theory, Methods and Applications** - Christodoulos A. Floudas (2000)](https://www.doi.org/10.1007/978-1-4757-4949-6)
 - [**Complete search in continuous global optimization and constraint satisfaction** - Neumaier, Arnold (2004)](https://www.doi.org/10.1017/cbo9780511569975.004)
 - [**Essays and Surveys in Global Optimization** - Charles Audet, Pierre Hansen, und Giles Savard (2005)](https://www.doi.org/10.1007/b135610)
@@ -34,7 +35,7 @@ Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung.
 - [**Deterministic global optimization** - Butenko, Sergiy und Pardalos, Panos M. (2017)](https://www.doi.org/10.1137/1.9781611974683.ch13)
 - [**Grundzüge der Globalen Optimierung** - Oliver Stein (2018)](https://www.doi.org/10.1007/978-3-662-55360-2)
 
-## *Aktuelle Forschung:*
+## *Aktuelle Forschung:* <a name="Forschung"></a>
 - [**Journal of Global Optimization**](https://www.springer.com/journal/10898)
 - [**Journal of Optimization Theory and Applications**](https://www.springer.com/journal/10957/)
 
