@@ -6,7 +6,7 @@
 4. [**Download**](#Download)
 
 
-### *Zusammenfassung:*
+## *Zusammenfassung:*
 Der Zweig der Deterministischen Globalen Optimierung befasst
 sich mit Problemen, bei denen exakte Verfahren für die Lösung notwendig sind. Anstelle einer lokal optimalen Lösung sind globale
 Optima von Interesse. Anwendungen findet die Theorie unter anderem in Prozessen der Chemie, bei der chemische Gleichgewichte
