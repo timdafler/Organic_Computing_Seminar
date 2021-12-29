@@ -23,7 +23,7 @@
 - https://de.knowledgr.com/21544946/DeterministischeGlobaleOptimierung
 
 ## *DOWNLOAD*
-- [Deterministische Globale Optimierung](https://github.com/timdafler/Organic_Computing_Seminar/Deterministische_Globale_Optimierung.pdf)
+- [Deterministische Globale Optimierung](https://github.com/timdafler/Organic_Computing_Seminar/blob/main/Deterministische_Globale_Optimierung.pdf)
 
 ## **Zwischenabgabe**
 - 4 Seiten werden gelesen
