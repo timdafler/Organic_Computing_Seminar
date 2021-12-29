@@ -19,8 +19,8 @@ Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung.
 **Operations Research, Optimierungsprobleme, Deterministische Globale Optimierung, Branching, DIRECT, MCL, LGO, Branch-and-Bound, Branch-and-Reduce, Constraint Propagation, Konvexe Relaxierung, Intervallarithmetik, Lagrange-Dualität**
 
 ## *empfehlenswerte Literatur:*
-- [Charles Audet, Pierre Hansen, und Giles Savard. Essays and Surveys in Global
-Optimization. Springer Science & Business Media, Berlin Heidelberg, 2005](https://www.doi.org/10.1007/b135610)
+- [Charles Audet, Pierre Hansen, und Giles Savard. **Essays and Surveys in Global
+Optimization**. Springer Science & Business Media, Berlin Heidelberg, **2005**](https://www.doi.org/10.1007/b135610)
 
 ### *aktuelle Forschung:*
 - [Journal of Global Optimization](https://www.springer.com/journal/10898)
