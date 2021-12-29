@@ -1,6 +1,6 @@
 <p align="center"> <img src="./Organic_Computing.png" alt="drawing" width="200"/> </p>
 
-# Seminar Organic Computing - <br/> Deterministische Globale Optimierung
+# Deterministische Globale Optimierung
 ## Inhaltsverzeichnis
 1. [**Zusammenfassung**](#Zusammenfassung)
 2. [**Literatur**](#Literatur)
