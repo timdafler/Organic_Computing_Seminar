@@ -18,10 +18,10 @@ Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung.
 ### *KEYWORDS:*
 **Operations Research, Optimierungsprobleme, Deterministische Globale Optimierung, Branching, DIRECT, MCL, LGO, Branch-and-Bound, Branch-and-Reduce, Constraint Propagation, Konvexe Relaxierung, Intervallarithmetik, Lagrange-Dualität**
 
-## *Download der Arbeit:*
+## *Download:*
 - [Deterministische Globale Optimierung](https://github.com/timdafler/Organic_Computing_Seminar/blob/main/Deterministische_Globale_Optimierung.pdf)
 
-## *empfehlenswerte Literatur:*
+## *Empfehlenswerte Literatur:*
 - [**Deterministic Global Optimization - Theory, Methods and Applications** - Christodoulos A. Floudas (2000)](https://www.doi.org/10.1007/978-1-4757-4949-6)
 - [**Complete search in continuous global optimization and constraint satisfaction** - Neumaier, Arnold (2004)](https://www.doi.org/10.1017/cbo9780511569975.004)
 - [**Essays and Surveys in Global Optimization** - Charles Audet, Pierre Hansen, und Giles Savard (2005)](https://www.doi.org/10.1007/b135610)
