@@ -1,8 +1,8 @@
 # Seminar Organic Computing
 ## **Thema: Deterministische Globale Optimierung**
 1. [**Zusammenfassung**](#Zusammenfassung)
-2. [Literatur]()
-3. [Download]()
+2. [**Literatur**](#Empfehlenswerte Literatur)
+3. [**Download**](#Download)
 
 
 ### *Zusammenfassung:*
