@@ -16,10 +16,7 @@ die Optimierungsprobleme vorgestellt, ehe in einer kurzen Diskussion die Ergebni
 Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung.
 
 ### *KEYWORDS:*
-**Operations Research, Optimierungsprobleme,
-Deterministische Globale Optimierung, Branching,
-DIRECT, MCL, LGO, Branch-and-Bound, Branch-andReduce, Constraint Propagation, Konvexe Relaxierung,
-Intervallarithmetik, Lagrange-Dualität**
+**Operations Research, Optimierungsprobleme, Deterministische Globale Optimierung, Branching, DIRECT, MCL, LGO, Branch-and-Bound, Branch-and-Reduce, Constraint Propagation, Konvexe Relaxierung, Intervallarithmetik, Lagrange-Dualität**
 
 ## *Literatur*:
 - Deterministic Global Optimization - Theory, Methods and Applications, Autoren: Floudas, Christodoulos A., 2000
