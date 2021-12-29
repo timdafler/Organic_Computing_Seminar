@@ -1,4 +1,5 @@
-# Deterministische Globale Optimierung
+# Optimierungsalgorithmen
+## Deterministische Globale Optimierung
 1. [**Zusammenfassung**](#Zusammenfassung)
 2. [**Literatur**](#Literatur)
 3. [**Aktuelle Forschung**](#Forschung)
