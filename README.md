@@ -1,4 +1,4 @@
-<p align="right"> <img src="./Organic_Computing.png" alt="drawing" width="200"/> </p>
+<p align="right"> <img src="./Organic_Computing.png" alt="drawing" width="150"/> </p>
 
 # Deterministische Globale Optimierung
 ## Inhaltsverzeichnis
