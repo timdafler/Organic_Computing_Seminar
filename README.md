@@ -17,13 +17,9 @@
 - Optimierung interaktiv (pp 127-147) - Globale Optimierung, Autoren: Daniel Scholz, 22.08.2018
 - Gemischt-ganzzahlige Optimierung: Modellierung in der Praxis (pp 275-299) - Globale Optimierung in der Praxis, Autoren: Josef Kallrath, 06 November 2012
 
-### Websites:
-- https://www.mat.univie.ac.at/~herman/skripten/globale_opt.pdf
-- https://coggle.it/diagram/W4qTDbU2KKwv-eEb/t/deterministische-optimierungsverfahren
-- https://de.knowledgr.com/21544946/DeterministischeGlobaleOptimierung
+### *weiterführende Literatur*:
+- [Journal of Global Optimization](https://www.springer.com/journal/10898)
+- [Journal of Optimization Theory and Applications](https://www.springer.com/journal/10957/)
 
-## *DOWNLOAD*
+## *Download der Arbeit*
 - [Deterministische Globale Optimierung](https://github.com/timdafler/Organic_Computing_Seminar/blob/main/Deterministische_Globale_Optimierung.pdf)
-
-## **Zwischenabgabe**
-- 4 Seiten werden gelesen
