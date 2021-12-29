@@ -1,4 +1,4 @@
-<p align="center> <img src="./Organic_Computing.png" alt="drawing" width="200"/> </p>
+<p align="center"> <img src="./Organic_Computing.png" alt="drawing" width="200"/> </p>
 
 # Seminar Organic Computing 
 
