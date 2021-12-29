@@ -1,3 +1,5 @@
+<p align="center"> <img src="./Organic_Computing.png" alt="drawing" width="200"/> </p>
+
 # Deterministische Globale Optimierung
 ## Inhaltsverzeichnis
 1. [**Zusammenfassung**](#Zusammenfassung)
@@ -41,4 +43,4 @@ Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung.
 
 
 ## *Download:*
-- [Deterministische Globale Optimierung](https://github.com/timdafler/Organic_Computing_Seminar/blob/main/Deterministische_Globale_Optimierung.pdf)
+- [**Deterministische Globale Optimierung**](https://github.com/timdafler/Organic_Computing_Seminar/blob/main/Deterministische_Globale_Optimierung.pdf)
