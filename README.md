@@ -1,3 +1,6 @@
+![image](./Organic_Computing.png){: style="float: left"}
+
+
 <img src="./Organic_Computing.png" alt="drawing" width="200"/>
 
 # Deterministische Globale Optimierung
