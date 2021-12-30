@@ -43,4 +43,5 @@ Geschlossen wird mit einem kurzen Ausblick der weiteren Entwicklung.
 
 
 ## *Download:*
-- [**Deterministische Globale Optimierung**](https://github.com/timdafler/Organic_Computing_Seminar/blob/main/Deterministische_Globale_Optimierung.pdf)
+- [**Arbeit - Deterministische Globale Optimierung**](https://github.com/timdafler/Organic_Computing_Seminar/blob/main/Deterministische_Globale_Optimierung.pdf)
+- [**Poster - Deterministische Globale Optimierung**](https://github.com/timdafler/Organic_Computing_Seminar/blob/main/Deterministische_Globale_Optimierung(Poster).pdf)
